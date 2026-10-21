@@ -1,0 +1,5 @@
+asset,alpha,model,breaches,obs_rate,kupiec_p,christ_p,calm_rate,stress_rate,Lambda,PBO,cov_before,cov_after,Kupiec,Christoffersen,RegimeRobust,OverfitControl,Calibrated,overall
+tlt_bonds,0.01,HistoricalSim,77,0.0139,0.0062,0.0004,0.0054,0.038,3.8,,0.0145,0.0158,FAIL,FAIL,FAIL,PASS,PASS,FAIL
+tlt_bonds,0.01,GARCH-t,65,0.0117,0.2131,0.2248,0.0095,0.0179,1.79,,0.0119,0.0136,PASS,PASS,PASS,PASS,PASS,PASS
+tlt_bonds,0.01,GBM-Quantile,118,0.0213,0.0,0.0,0.0112,0.0497,4.97,,0.0221,0.0143,FAIL,FAIL,FAIL,PASS,FAIL,FAIL
+tlt_bonds,0.01,LinearQuantile,118,0.0213,0.0,0.0,0.0146,0.04,4.0,,0.0217,0.016,FAIL,FAIL,FAIL,PASS,FAIL,FAIL

@@ -1,0 +1,5 @@
+asset,alpha,model,breaches,obs_rate,kupiec_p,christ_p,calm_rate,stress_rate,Lambda,PBO,cov_before,cov_after,Kupiec,Christoffersen,RegimeRobust,OverfitControl,Calibrated,overall
+btc,0.05,HistoricalSim,206,0.0533,0.3516,0.002,0.0403,0.1343,2.69,,0.0545,0.057,PASS,FAIL,FAIL,PASS,PASS,FAIL
+btc,0.05,GARCH-t,238,0.0616,0.0014,0.0,0.0547,0.1045,2.09,,0.0639,0.0515,FAIL,FAIL,FAIL,PASS,FAIL,FAIL
+btc,0.05,GBM-Quantile,224,0.058,0.0267,0.0011,0.0487,0.1157,2.31,,0.0589,0.055,FAIL,FAIL,FAIL,PASS,PASS,FAIL
+btc,0.05,LinearQuantile,213,0.0551,0.1513,0.0697,0.0487,0.0951,1.9,,0.0564,0.055,PASS,PASS,PASS,PASS,PASS,PASS

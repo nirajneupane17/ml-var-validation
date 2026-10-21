@@ -1,0 +1,5 @@
+asset,alpha,model,breaches,obs_rate,kupiec_p,christ_p,calm_rate,stress_rate,Lambda,PBO,cov_before,cov_after,Kupiec,Christoffersen,RegimeRobust,OverfitControl,Calibrated,overall
+nasdaq,0.05,HistoricalSim,310,0.05,0.9907,0.0002,0.0399,0.1624,3.25,,0.0516,0.0637,PASS,FAIL,FAIL,PASS,PASS,FAIL
+nasdaq,0.05,GARCH-t,427,0.0689,0.0,0.0,0.0675,0.0841,1.68,,0.0708,0.0563,FAIL,FAIL,PASS,PASS,FAIL,FAIL
+nasdaq,0.05,GBM-Quantile,372,0.06,0.0004,0.0002,0.0519,0.1507,3.01,,0.0616,0.0585,FAIL,FAIL,FAIL,PASS,FAIL,FAIL
+nasdaq,0.05,LinearQuantile,345,0.0557,0.0437,0.1129,0.0526,0.09,1.8,,0.0563,0.0568,FAIL,PASS,PASS,PASS,PASS,FAIL

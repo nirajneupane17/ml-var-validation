@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the paper below."
+title: "Governance-grade validation of machine-learning VaR models: replication code and data"
+authors:
+  - family-names: Neupane
+    given-names: Niraj
+    orcid: "https://orcid.org/0009-0003-7026-7026"
+version: 1.0.0
+date-released: 2026-10-21
+license: MIT
+repository-code: "https://github.com/nirajneupane17/ml-var-validation"
+preferred-citation:
+  type: article
+  title: "When Backtests Lie: A Governance-Grade Validation Framework for Machine-Learning Value-at-Risk Models under Regime Shifts"
+  authors:
+    - family-names: Neupane
+      given-names: Niraj
+      orcid: "https://orcid.org/0009-0003-7026-7026"
+  year: 2026
